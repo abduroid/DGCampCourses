@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Digital Generation Camp courses</string>
+
+
+    <!-- Course titles -->
+    <string name="course_title_desktop">Desktop-dasturlash</string>
+    <string name="course_title_design">2D Dizayn</string>
+    <string name="course_title_mobile">Mobil Dasturlash</string>
+    <string name="course_title_digital_marketing">Media &amp; Raqamli Marketing</string>
+    <string name="course_title_web">Web Dasturlash</string>
+    <string name="course_title_arduino">Robototexnika</string>
+
+    <!-- Course descriptions -->
+    <string name="description_mobile">
+        Mobil dasturlashda 4 yildan oshiq tajribaga ega mentorimiz Online Digital Camp ishtirokchilariga Android dasturlar yaratish bo\'yicha saboq beradi. Ishtirokchilar Android Studio dasturida Kotlin va Java orqali mobil ilova yaratishni, xususan “Reminder” ilova dasturlashni o\'rganadilar.
+
+Mentor: DataSite Technology kompaniyasida Android dasturchi bo\'lib ishlaydi, Toshkent shahridagi Inha Universitetini tamomlagan, Google Developers Group Tashkent hamjamiyatining tashkilot a\'zosi hamda, Tickit.co, Everlast, Shipox kabi turli xil loyihalarda faoliyat yuritgan.
+    </string>
+    <string name="description_desktop">
+        O\'quv jarayonida ishtirokchilar C# dasturlash tili asoslarini o\'rganib, Microsoft Visual Studio orqali Windows dastur yaratishga qodir bo\'ladilar. Bundan tashqari Windows formaga bo\'lgan qulay UI dizayn yaratishni ham o\'rganishadi. Onlayn kursning yakunida Youtube downloader desktop-ilovasini yaratishadi.
+
+        Mentor: 8 yillik dasturchi tajribasiga ega bo\'lib, Mukhammadkarim 10dan ziyod dasturlash tillarida ilovalar yarata oladilar, Toshkent axborot texnologiyalari universiteti 3-kurs talabasi, “ROBOTICS LAB” markazida ilmiy ishlar va innovatsiyalar qo\'llab-quvvatlash bo\'yicha direktor lavozimida ish yuritib kelgan.  “Genius Coders”, “ZLearning Academy”, “Sakhiya” roboti kabi ko\'plab loyihalar asoschisi.
+    </string>
+    <string name="description_design">
+        Tajribali mentorimiz tomonidan ishtirokchilar Figma, Adobe Illustrator va Photoshop kabi dasturlarda ish yuritish va dizayn bo\'yicha saboq beriladi. Ranglar bilan ishlash, tipografika, vektor va rastr grafikalarni farqlashni, dizayn-fikrlash tamoyillari, UI/UX prototiplar va tizim dizaynini yaratish, hamda dizayn soxasidagi so\'nggi tendentsiyalar haqida darslar bo\'lib o\'tadi.
+
+Mentor: 5 yildan oshiq tajribaga ega Elbek, Toshkent shahridagi Inha Universiteti 4-kurs talabasi, Open Data Challenge 2018 birinchi o\'rin sovrindori. Ko\'plab mahalliy loyihalarni dizaynini yaratgan, “Digital Generation Uzbekistan” NNTning bosh grafik dizayneri.
+    </string>
+    <string name="description_digital_marketing">
+        Bu yo\'nalishda ishtirokchilar Adobe Premiere Pro dasturi orqali videomontaj hamda, mobil reportyorlik va jurnalistika asoslarini o\'rganishadi. Xalqaro tajribaga ega mentorimiz professional montajerlik va operatorlikdan dars o\'tkazadilar. Bundan tashqari rejissyorlik, jurnalistika va SMM(Instagram, YouTube, Telegram) bo\'yicha master klasslarda o\'z bilim va ko\'nikmalarini oshirish imkoniyatiga ega bo\'ladilar.
+
+Mentor: 8 yillik operatorlik va videomontaj sohasida tajriba ega Otabek, “Khuda Hafiz” nomli filmning dron operator assistenti bo\'lgan. "Yoshlar Media Markazi" NNTning bosh operator lavozimida ish yuritib kelgan. Hozirgi kunda Muhammad al-Xorazmiy nomidagi axborot texnologiyalariga chuqurlashtirib o\'qitishga iqtisoslashtirilgan maktab  bosh operatori bo\'lib faoliyat yuritadi.
+    </string>
+    <string name="description_web">
+        Ishtirokchilar 5 kun davomida web dasturlash asoslarini, web sahifalar strukturasining tuzilishi, HTML teglar va atributlarni, CSS va Bootstrap kutubxonalari orqali landing page yasashni va hostinglar bilan ishlashni o\'rganadilar.
+
+Mentor: Nuriddin Qamariddinov, katta tajribaga ega web (backend) dasturchi, asosiy texnologiyalari bu PHP, Yii2. Toshkent axborot texnologiyalari universiteti bitiruvchisi va "Al-Xorazmiy" stipendiyasi sohibi hamda, effort.uz platformasi asoschisi.
+    </string>
+    <string name="description_arduino">
+        Bu yo\'nalishimizda onlayn simulyator orqali sxematexnika va robototexnika bilimlari Arduino asosida o‘rgatiladi. Ishtirokchilar C++ va mantiqli algoritm asoslaridan boshlab professional darajagacha robototexnikadan o\'z bilimlarini oshirishlari mumkin. Besh kun davomida “Small Car” va “Smart House” kabi ikkita loyiha yaratishga imkonlari bo\'ladi.
+
+Mentor: Robototexnika va dasturlash bo\'yicha 6 yillik tajribaga ega Mirzohid turli tanlovlar, respublika va xalqaro olimpiadalarda ishtirok etib yutuqli o\'rinlar so\'vrindori. Andijon mashinasozlik institutini tamomlagan. Uning robototexnika soxasida olib borgan izlanishlari natijalari ilmiy maqolalar va ilmiy hulosalar hamda ilmiy tavsiyalar ko\'rinishida chop ettirilgan.
+    </string>
+
+
+    <string name="study">Study</string>
+    <string name="progress">Progress:</string>
+
+
+    <string name="key_intent_extra_description">description</string>
+    <string name="key_intent_extra_course_image_res_id">courseImageId</string>
+</resources>
